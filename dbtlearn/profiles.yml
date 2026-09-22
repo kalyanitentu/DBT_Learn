@@ -1,0 +1,11 @@
+dbtlearn:
+  outputs:
+    dev:
+      catalog: dbt_learn_dev
+      host: dbc-5486031b-bb54.cloud.databricks.com
+      http_path: /sql/1.0/warehouses/db994f6eadf8d1c7
+      schema: default
+      threads: 1
+      token: dapi3cb1ae0eff1b22c2e6bdfd73e5ca0e5a
+      type: databricks
+  target: dev
